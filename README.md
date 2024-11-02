@@ -14,3 +14,4 @@ Desenvolvedor web, apaixonado por criar interfaces intuitivas ;)
 <hr>
 
 ### Redes sociais:
+<img width="50px" height="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg" />
