@@ -15,6 +15,6 @@ Desenvolvedor web, apaixonado por criar interfaces intuitivas ;)
 
 ### Redes sociais:
 <div display="inline">
-<a href="https://www.linkedin.com/in/daniel-silva-a70610313/"><img width="50px" height="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg" /></a>
-<a href="https://www.instagram.com/dandev258/"><img width="50px" height="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg" /></a>
+<a href="https://www.linkedin.com/in/daniel-silva-a70610313/" target="_blank"><img width="50px" height="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg" /></a>
+<a href="https://www.instagram.com/dandev258/" target="_blank"><img width="50px" height="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg" /></a>
 </div>
