@@ -1,4 +1,4 @@
-### Opa, Daniel aqui!
+## Opa, Daniel aqui!
 Desenvolvedor web, apaixonado por criar interfaces intuitivas ;)
 
 - 🖱️ **Tecnico** TI
@@ -13,4 +13,4 @@ Desenvolvedor web, apaixonado por criar interfaces intuitivas ;)
 </div>
 <hr>
 
-## Redes sociais:
+### Redes sociais:
