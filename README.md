@@ -1,8 +1,9 @@
 ## Opa, Daniel aqui!
 Desenvolvedor web, apaixonado por criar interfaces intuitivas ;)
--🖱️ **Tecnico** TI
--🖥️ **Desenvolvedor FrontEnd**
--💻 **Web Designer**
+
+- 🖱️ **Tecnico** TI
+- 🖥️ **Desenvolvedor FrontEnd**
+- 💻 **Web Designer**
 
 👨🏾‍💻***Atualmente focado em:***
 <div display="inline">
