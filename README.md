@@ -2,7 +2,7 @@
 Desenvolvedor web, apaixonado por criar interfaces intuitivas ;)
 
 - 🖱️ **Tecnico** TI
-- 🖥️ **Desenvolvedor FrontEnd**
+- 🖥️ **Desenvolvedor FrontEnd-Pleno**
 - 💻 **Web Designer**
 
 👨🏾‍💻***Atualmente focado em:***
@@ -11,6 +11,7 @@ Desenvolvedor web, apaixonado por criar interfaces intuitivas ;)
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
 </div>
 <hr>
 
