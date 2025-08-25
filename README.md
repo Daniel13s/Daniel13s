@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Daniel and I'm a Front-End developer</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://tenor.com/pt-BR/view/chibi-anime-boy-gif-5184562176113948596)"  />
 
 ###
 
