@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/chibi-anime-boy-gif-5184562176113948596"/>
-<div class="tenor-gif-embed" data-postid="5184562176113948596" data-share-method="host" data-aspect-ratio="1.23333" data-width="100%"><a href="https://tenor.com/view/chibi-anime-boy-gif-5184562176113948596">Chibi Anime Boy Sticker</a>from <a href="https://tenor.com/search/chibi+anime+boy-stickers">Chibi Anime Boy Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" height="150" src="https://media.tenor.com/R_ND1Icyt7QAAAAj/chibi-anime-boy.gif"/>
 
 ###
 
