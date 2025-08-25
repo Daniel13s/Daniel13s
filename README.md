@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://tenor.com/pt-BR/view/chibi-anime-boy-gif-5184562176113948596)"  />
+<img align="right" height="150" src="https://tenor.com/pt-BR/view/chibi-anime-boy-gif-5184562176113948596"  />
 
 ###
 
