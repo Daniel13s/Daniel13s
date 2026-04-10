@@ -57,7 +57,7 @@ Sistema de encurtamento de URLs com foco em performance e escalabilidade.
 - Worker para processamento assíncrono
 - Estrutura preparada para alta concorrência
 
-👉 https://github.com/SEU_USER/url-shortener
+👉 [https://github.com/Daniel13s/url-shortener](https://github.com/Daniel13s/url-shortener)
 
 ---
 
@@ -70,19 +70,19 @@ Projeto criado para aplicar e evoluir princípios de arquitetura.
 - Código desacoplado e testável
 - Evolução contínua entre versões
 
-👉 https://github.com/SEU_USER/task-manager
+👉 [https://github.com/Daniel13s/task-manager](https://github.com/Daniel13s/task-maneger)
 
 ---
 
-### 🔐 Auth API
-Sistema de autenticação com boas práticas modernas.
+### 🔐 Video API
+Sistema de administracao de videos.
 
 **Destaques técnicos:**
 - JWT + Refresh Token
 - Estrutura organizada por domínio
 - Foco em segurança e clareza de código
 
-👉 https://github.com/SEU_USER/auth-api
+👉 [https://github.com/Daniel13s/video-api](https://github.com/Daniel13s/videos-API)
 
 ---
 
@@ -100,14 +100,14 @@ Esse processo força aprendizado real em vez de só teoria.
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel13s&show_icons=true&theme=dracula)
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: https://linkedin.com/in/SEU_PERFIL  
-- Email: SEU_EMAIL  
+- LinkedIn: [https://linkedin.com/in/daniel-s-cardoso  ](https://www.linkedin.com/in/daniel-s-cardoso/)
+- Email: eudandev25@gmail.com
 
 ---
 
