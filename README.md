@@ -1,46 +1,118 @@
-<h2 align="left">Hi 👋! My name is Daniel and I'm a FullStack developer</h2>
+# 👋 Fala aí, eu sou o Daniel
 
-###
+💻 Desenvolvedor Back-end | Node.js | TypeScript  
+🚀 Focado em APIs escaláveis, arquitetura de software e boas práticas  
+📚 Evoluindo constantemente em design de sistemas e engenharia de software  
 
-<img align="right" height="150" src="https://media.tenor.com/R_ND1Icyt7QAAAAj/chibi-anime-boy.gif"/>
+---
 
-###
+## 🧠 Sobre mim
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" height="30" alt="styled components logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="next logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="node logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-</div>
+Sou desenvolvedor com foco em back-end, construindo APIs e sistemas com Node.js e TypeScript.
 
-###
+Tenho direcionado meus estudos para **arquitetura de software**, aplicando na prática conceitos como:
 
-<div align="left">
-  <a href="https://www.instagram.com/eudandev"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href=""><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="eudandev25@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/daniel-s-cardoso"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>
+- SOLID
+- Clean Architecture
+- Separação de responsabilidades
+- Design orientado a domínio (em evolução)
 
-###
+Não fico só na teoria — estou constantemente criando e evoluindo projetos reais para consolidar conhecimento técnico.
 
-<br clear="both">
+---
 
-###
+## ⚙️ Stack principal
+
+**Back-end**
+- Node.js
+- TypeScript
+- Express / Fastify
+
+**Banco de dados**
+- PostgreSQL
+- Prisma ORM
+
+**Ferramentas**
+- Docker
+- Git
+- Insomnia / Postman
+
+**Conceitos e práticas**
+- SOLID
+- Clean Code
+- REST APIs
+- Arquitetura em camadas
+- Processamento assíncrono (filas/workers - em evolução)
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🔗 URL Shortener (Arquitetura Escalável)
+Sistema de encurtamento de URLs com foco em performance e escalabilidade.
+
+**Destaques técnicos:**
+- Redirecionamento rápido (síncrono)
+- Contagem de acessos desacoplada via fila
+- Worker para processamento assíncrono
+- Estrutura preparada para alta concorrência
+
+👉 https://github.com/SEU_USER/url-shortener
+
+---
+
+### 📋 Task Manager (Evolução com SOLID)
+Projeto criado para aplicar e evoluir princípios de arquitetura.
+
+**Destaques técnicos:**
+- Separação clara entre camadas (controller, service, repository)
+- Validações centralizadas no service
+- Código desacoplado e testável
+- Evolução contínua entre versões
+
+👉 https://github.com/SEU_USER/task-manager
+
+---
+
+### 🔐 Auth API
+Sistema de autenticação com boas práticas modernas.
+
+**Destaques técnicos:**
+- JWT + Refresh Token
+- Estrutura organizada por domínio
+- Foco em segurança e clareza de código
+
+👉 https://github.com/SEU_USER/auth-api
+
+---
+
+## 🧪 Evolução técnica (importante)
+
+Tenho trabalhado em versões progressivas de projetos para consolidar conhecimento:
+
+- **v1** → Implementação básica funcional  
+- **v2** → Aplicação de princípios SOLID  
+- **v3** → Introdução de autenticação, organização mais robusta e melhorias arquiteturais  
+
+Esse processo força aprendizado real em vez de só teoria.
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=dracula)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://linkedin.com/in/SEU_PERFIL  
+- Email: SEU_EMAIL  
+
+---
+
+## ⚠️ Nota
+
+Meu foco não é apenas “fazer funcionar”, mas entender **como construir sistemas bem estruturados, escaláveis e sustentáveis**.
+
+Se você está procurando alguém que estuda arquitetura de verdade (e aplica), vale a pena dar uma olhada nos meus projetos.
