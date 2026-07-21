@@ -1,6 +1,6 @@
 # 👋 Fala aí, eu sou o Daniel
 
-💻 Desenvolvedor Back-end | Node.js | TypeScript  
+💻 Desenvolvedor Back-end | Node.js, Java | TypeScript  
 🚀 Focado em APIs escaláveis, arquitetura de software e boas práticas  
 📚 Evoluindo constantemente em design de sistemas e engenharia de software  
 
@@ -25,15 +25,19 @@ Não fico só na teoria — estou constantemente criando e evoluindo projetos re
 
 **Back-end**
 - Node.js
+- Java
 - TypeScript
 - Express / Fastify
 
 **Banco de dados**
 - PostgreSQL
+- MongoDB
+- SQLite
 - Prisma ORM
 
 **Ferramentas**
 - Docker
+- Docker Compose
 - Git
 - Insomnia / Postman
 
@@ -48,8 +52,8 @@ Não fico só na teoria — estou constantemente criando e evoluindo projetos re
 
 ## 🚀 Projetos em destaque
 
-### 🔗 URL Shortener (Arquitetura Escalável)
-Sistema de encurtamento de URLs com foco em performance e escalabilidade.
+### 🔗 Book-Keep
+SIstema para organização de rotina de leitura.
 
 **Destaques técnicos:**
 - Redirecionamento rápido (síncrono)
@@ -57,7 +61,7 @@ Sistema de encurtamento de URLs com foco em performance e escalabilidade.
 - Worker para processamento assíncrono
 - Estrutura preparada para alta concorrência
 
-👉 [https://github.com/Daniel13s/url-shortener](https://github.com/Daniel13s/url-shortener)
+👉 [https://github.com/Daniel13s/book-keep](https://github.com/Daniel13s/book-keep))
 
 ---
 
