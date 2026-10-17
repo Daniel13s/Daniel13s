@@ -8,7 +8,7 @@
 
 ## 🧠 Sobre mim
 
-Sou desenvolvedor com foco em back-end, construindo APIs e sistemas com Node.js e TypeScript.
+Sou desenvolvedor com foco em back-end, construindo APIs e sistemas com Node.js, Java, Python e TypeScript.
 
 Tenho direcionado meus estudos para **arquitetura de software**, aplicando na prática conceitos como:
 
