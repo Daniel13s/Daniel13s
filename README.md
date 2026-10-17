@@ -13,8 +13,6 @@ Tenho direcionado meus estudos para **arquitetura de software**, aplicando na pr
 
 Não fico só na teoria — estou constantemente criando e evoluindo projetos reais para consolidar conhecimento técnico.
 
----
-
 ## ⚙️ Stack principal
 
 **Back-end**
@@ -83,18 +81,6 @@ Sistema de administracao de videos.
 👉 [https://github.com/Daniel13s/video-api](https://github.com/Daniel13s/videos-API)
 
 ---
-
-## 🧪 Evolução técnica (importante)
-
-Tenho trabalhado em versões progressivas de projetos para consolidar conhecimento:
-
-- **v1** → Implementação básica funcional  
-- **v2** → Aplicação de princípios SOLID  
-- **v3** → Introdução de autenticação, organização mais robusta e melhorias arquiteturais  
-
-Esse processo força aprendizado real em vez de só teoria.
-
-
 
 ## 📫 Contato
 
