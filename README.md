@@ -1,11 +1,5 @@
 # 👋 Fala aí, eu sou o Daniel
 
-💻 Desenvolvedor Back-end | Node.js, Java | TypeScript  
-🚀 Focado em APIs escaláveis, arquitetura de software e boas práticas  
-📚 Evoluindo constantemente em design de sistemas e engenharia de software  
-
----
-
 ## 🧠 Sobre mim
 
 Sou desenvolvedor com foco em back-end, construindo APIs e sistemas com Node.js, Java, Python e TypeScript.
@@ -100,23 +94,9 @@ Tenho trabalhado em versões progressivas de projetos para consolidar conhecimen
 
 Esse processo força aprendizado real em vez de só teoria.
 
----
 
-## 📊 Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
----
 
 ## 📫 Contato
 
 - LinkedIn: [https://linkedin.com/in/daniel-s-cardoso  ](https://www.linkedin.com/in/daniel-s-cardoso/)
 - Email: eudandev25@gmail.com
-
----
-
-## ⚠️ Nota
-
-Meu foco não é apenas “fazer funcionar”, mas entender **como construir sistemas bem estruturados, escaláveis e sustentáveis**.
-
-Se você está procurando alguém que estuda arquitetura de verdade (e aplica), vale a pena dar uma olhada nos meus projetos.
